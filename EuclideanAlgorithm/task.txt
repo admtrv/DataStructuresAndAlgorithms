@@ -1,0 +1,6 @@
+Greatest common divisor
+Your task is to create a program that calculates the greatest common divisor for two natural numbers in the interval from 0 to 18446744073709551615.
+On the input, there is a natural number N (in the interval from 1 to 100000) on the first line, which expresses how many lines follow on the input.
+Each subsequent line contains two natural numbers, separated by one space, which represent the numbers for which the greatest common divisor needs to be calculated.
+Write the results of these calculations to the output, each result on a separate line.
+Be careful about the input and output format.

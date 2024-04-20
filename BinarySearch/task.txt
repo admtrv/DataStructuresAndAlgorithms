@@ -1,0 +1,6 @@
+Searching rational numbers in a sequence
+Your task is to create a program that first reads an increasing sequence of rational numbers and remembers this sequence. You can only use data types for whole numbers and characters (e.g. int, long or char) to solve the assignment, not float. These rational numbers have a precision of 0 to 10 digits after the decimal point.
+Subsequently, this program will receive an arbitrary rational number at the input (in the same format as the numbers forming the sequence mentioned above), while the essence of this program is to find the given number within the specified sequence for each entered number and to return the position (i.e. ordinal number) of the found number. The sequence of numbers is numbered from number 1. If the entered number is not in the sequence, the program returns number 0.
+The input is first a natural number N (in the range from 1 to 50000) expressing the size of the sequence. There are N rows, each row containing one number from the sequence.
+This sequence is followed by a natural number M (in the range from 1 to 100000) expressing the number of searched numbers. There are M lines, each line containing one number to be found in the given sequence.
+The output is numbers representing the order of the entered search numbers in sequence, with each number in a separate line.

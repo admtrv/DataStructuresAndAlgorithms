@@ -1,0 +1,24 @@
+Shortest paths
+Your task is to construct an undirected graph without loops based on the list of edges given in the input and then perform the following operations on this graph according to the input:
+i - insert - inserting a new edge into the graph
+s - search - search for the shortest path in the graph according to the specified start and end
+u - update - modification of an existing edge in the graph (i.e. modification of the weight of the given edge), while the weight of the edge must not be changed to a negative number
+d - delete - remove an existing edge from the graph
+
+An edge is defined as a pair of two vertices, while the vertices are numbered with non-negative whole numbers from 0 to N, where N is the maximum number of vertices in the given graph.
+
+If the given operation fails, the error message " failed" is written in a separate line.
+The failure is, for example, when we try to add an edge that already exists, or when the search operation did not find any path for a given pair of vertices.
+
+The input of the program is the number N (max. number of vertices in the graph) followed by a space and the number M (number of edges in the initial graph) on the first line.
+There are M lines, where in each line there is one edge of the initial graph, in the format "(vertex_1, vertex2, weight)".
+This initial graph is followed by any number of lines, each line representing one command for one operation (ie, insert, search, update, or delete).
+The operation is expressed by the initial letter, i.e. i, s, u or d. The following are the data required for the given operation.
+The insert operation needs the following 3 data: vertex_1 number, vertex_2 number, edge weight (also an integer)
+The search operation needs the following 2 data: the number of the starting vertex, the number of the end (target) vertex
+The update operation needs the following 3 data: number of vertex_1, number of vertex_2, change of edge weight (also an integer)
+The delete operation needs the following 2 data: vertex_1 number, vertex_2 number
+
+The output is the shortest paths found by search operations, while the output format is as follows:
+: [vertex1, vertex2, vertex3, ..., last_vertex]
+In addition, the above-mentioned error messages are also output in case of operation failure, together with the edge above which the given operation failed.

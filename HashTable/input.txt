@@ -1,0 +1,101 @@
+i Thomas Sanford 1.1.2001 2017,81
+i Nathan Flores 18.4.2002 6689,79
+i Michelle Palmer 12.7.1999 7205,98
+i Angelica Olsen 25.2.1991 6511,68
+i Kevin Taylor 21.9.1969 7573,79
+i Brian Hutchinson 5.9.1953 1531,69
+i Joseph Hunter 15.5.1986 805,16
+i Anthony White 6.5.1958 8013,22
+i James Anderson 23.4.2002 7694,99
+i Lori Mcknight 20.8.1976 1584,38
+i Christopher Bryant 28.2.1962 229,57
+i Kayla Jones 3.6.1962 9065,65
+i Hannah West 2.2.1993 8237,84
+i Jocelyn Frey 11.8.1954 3762,70
+i Megan Collins 29.12.1988 7481,26
+i Victoria Peck 6.9.1988 5301,50
+i Jason Stafford 18.1.1974 2866,75
+i Jean Johnson 27.3.1988 6950,36
+i Grace Obrien 22.6.1981 2796,93
+i Laura Ward 20.1.1999 7579,02
+u Brian Hutchinson 5.9.1953 2073,09
+u James Anderson 23.4.2002 -329,97
+s Megan Collins 29.12.1988
+u Kayla Jones 3.6.1962 2179,57
+u Jocelyn Frey 11.8.1954 -985,99
+u Hannah West 2.2.1993 457,97
+u Angelica Olsen 25.2.1991 -1504,94
+s Jason Stafford 18.1.1974
+s Hannah West 2.2.1993
+u Lori Mcknight 20.8.1976 1081,23
+s Thomas Sanford 1.1.2001
+u Thomas Sanford 1.1.2001 1514,85
+u Angelica Olsen 25.2.1991 569,20
+u Brian Hutchinson 5.9.1953 -2363,20
+u Kayla Jones 3.6.1962 -206,37
+u Nathan Flores 18.4.2002 -1100,55
+d Grace Obrien 22.6.1981
+u Laura Ward 20.1.1999 -1195,77
+s James Anderson 23.4.2002
+s Christopher Bryant 28.2.1962
+s Brian Hutchinson 5.9.1953
+i Christopher Powell 6.2.1966 91,21
+u Christopher Bryant 28.2.1962 1511,66
+u Jason Stafford 18.1.1974 246,09
+u Kevin Taylor 21.9.1969 -2010,75
+u Brian Hutchinson 5.9.1953 1384,48
+u Jason Stafford 18.1.1974 -495,16
+u Kayla Jones 3.6.1962 340,55
+s Christopher Bryant 28.2.1962
+u Brian Hutchinson 5.9.1953 -2387,11
+u Michelle Palmer 12.7.1999 1737,77
+s Megan Collins 29.12.1988
+u Brian Hutchinson 5.9.1953 -2069,00
+u Jason Stafford 18.1.1974 580,80
+u Angelica Olsen 25.2.1991 1553,44
+s Thomas Sanford 1.1.2001
+u Nathan Flores 18.4.2002 589,51
+u Kevin Taylor 21.9.1969 852,81
+s James Anderson 23.4.2002
+u Lori Mcknight 20.8.1976 -2189,98
+u James Anderson 23.4.2002 -2448,33
+u Kayla Jones 3.6.1962 650,09
+u Laura Ward 20.1.1999 767,51
+s Brian Hutchinson 5.9.1953
+s Angelica Olsen 25.2.1991
+s Kevin Taylor 21.9.1969
+s Michelle Palmer 12.7.1999
+u Jean Johnson 27.3.1988 716,98
+u Angelica Olsen 25.2.1991 990,06
+u Brian Hutchinson 5.9.1953 906,66
+u Thomas Sanford 1.1.2001 -1269,26
+s Thomas Sanford 1.1.2001
+u Angelica Olsen 25.2.1991 -738,82
+s Laura Ward 20.1.1999
+s Joseph Hunter 15.5.1986
+s Jean Johnson 27.3.1988
+u Joseph Hunter 15.5.1986 -2400,21
+d Hannah West 2.2.1993
+s Michelle Palmer 12.7.1999
+u Michelle Palmer 12.7.1999 -660,55
+i Traci James 13.2.1991 39,89
+u Victoria Peck 6.9.1988 1290,12
+s Thomas Sanford 1.1.2001
+u Thomas Sanford 1.1.2001 705,46
+u Anthony White 6.5.1958 -1977,22
+s Christopher Powell 6.2.1966
+u Jason Stafford 18.1.1974 -1897,53
+u Thomas Sanford 1.1.2001 -200,94
+i Michael Jordan 20.3.1994 6683,23
+s Megan Collins 29.12.1988
+u Jean Johnson 27.3.1988 447,07
+s Kevin Taylor 21.9.1969
+u Joseph Hunter 15.5.1986 460,05
+u Jean Johnson 27.3.1988 -2453,37
+s Jean Johnson 27.3.1988
+i Sean Wade 10.3.1985 7598,93
+s Christopher Bryant 28.2.1962
+i Zoe Meza 19.11.1995 5522,63
+i Patricia Salinas 9.4.2000 7818,62
+s Harry Potter 12.5.1995
+s Laura Ward 20.1.1999

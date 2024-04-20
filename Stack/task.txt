@@ -1,0 +1,5 @@
+Brackets
+Your task is to analyze the entered sequences and count the number of errors in each sequence, and output this number of errors.
+Sequences consist of pairs of parentheses of the type ( ), [ ], <>, or { }. It is an error if a pair does not have a starting or ending parenthesis or if a pair consists of different parentheses, such as ( ] or <}. Parentheses can nest into each other any number of times.
+At the input there is first a number N (in the range from 1 to 200) expressing the number of sequences, while each sequence is located on a separate line. The length of one sequence can be from 1 to 100000 characters.
+The output consists of error counts, and these numbers are written on separate lines.

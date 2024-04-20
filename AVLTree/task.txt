@@ -1,0 +1,16 @@
+Balanced tree
+Your task is to implement a balanced tree that will serve as an implementation of the abstract data type dynamic set. The following operations should be supported:
+i - insert - inserting a new item into the tree
+s - search - search for an item or an interval of items by ID or an ID interval
+d - delete - removing an item from the tree by ID
+
+Items represent people, consisting of a unique ID, first name, last name, and date of birth.
+
+The input of the program is the individual operations above the tree, where each operation is located in a separate line.
+A line always begins with the letter specifying the operation (i.e., i, s, or d), followed by the data required for that operation.
+The insert operation needs all the data to insert the given item, i.e. ID, first name, last name and date of birth.
+The search operation uses either only the ID of the searched item or a pair of numbers representing the ID interval.
+The delete operation only uses the ID of the item to be deleted, if it exists.
+
+The output is the items found using the search operations, while in the case of using the ID interval, these items are sorted by ID (from the smallest value to the highest).
+Each item is on a separate line.

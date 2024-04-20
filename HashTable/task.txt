@@ -1,0 +1,23 @@
+Hash tables
+Your task is to implement the dynamic set abstract data type using a hash table. The following operations should be supported:
+i - insert - inserting a new item into the table
+s - search - search for an item by key
+u - update - adjustment of the item (specifically the balance on the account) according to the key
+d - delete - removing an item from the table by key
+
+Items represent people, consisting of first name, last name, date of birth, and a number representing the financial balance in the person's account.
+The key is the combination of full name and date of birth.
+Each person has a unique key.
+
+Each operation must also be treated for possible operation failure, in which case the text " failed" is printed on the output in a separate line.
+A failure is, for example, when we try to look up a person who is not in the data structure, or when we try to insert a duplicate person into the data structure.
+
+The input of the program is the individual operations for the hash table, where each operation is located in a separate line.
+A line always begins with the letter specifying the operation (i.e., i, s, u, or d), followed by the data required for that operation.
+The insert operation needs all the data to insert the given item, i.e. first name, last name, date of birth and initial account balance (positive number with precision of 2 digits, e.g. euros and cents).
+The search operation only uses the key
+The update operation needs a key, followed by a modification of the account balance (i.e. a number with a precision of 2 digits, e.g. euros and cents). In the case of a negative value, the update operation is valid only if it does not cause a negative balance on the account of the given person (i.e. the balance on the account must always be positive).
+The delete operation only uses the key.
+
+The output is the items found using the search operations and the failure report of the given operation.
+Each item/message is on a separate line.
