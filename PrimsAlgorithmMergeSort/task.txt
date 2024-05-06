@@ -1,0 +1,24 @@
+Minimum spanning tree
+Your task is to construct an undirected graph without loops based on the list of edges given in the input and then perform the following operations on this graph according to the input:
+i - insert - inserting a new edge into the graph
+s - search - search for the minimal skeleton in the graph that contains the specified vertex
+u - update - modification of an existing edge in the graph (i.e. modification of the weight of the given edge), while the weight of the edge must not be changed to a negative number
+d - delete - remove an existing edge from the graph
+
+An edge is defined as a pair of two vertices, while the vertices are numbered with non-negative whole numbers from 0 to N, where N is the maximum number of vertices in the given graph.
+
+If the given operation fails, the error message " failed" is printed in a separate line.
+The failure is, for example, when we try to add an edge that already exists, or when the search operation did not find any skeleton for the specified vertex (i.e. not a single edge).
+
+The input of the program is the number N (max. number of vertices in the graph).
+Then there are lines, where in each line there is one edge of the initial graph, in the format "(vertex_1, vertex2, weight)".
+This initial graph is followed by any number of lines, each line representing one command for one operation (ie, insert, search, update, or delete).
+The operation is expressed by the initial letter, i.e. i, s, u or d. The following are the data required for the given operation.
+The insert operation needs the following 3 data: vertex_1 number, vertex_2 number, edge weight (also an integer)
+The search operation needs this 1 piece of data: the number of the vertex that the minimal skeleton of the graph should contain
+The update operation needs the following 3 data: number of vertex_1, number of vertex_2, change of edge weight (also an integer)
+The delete operation needs the following 2 data: vertex_1 number, vertex_2 number
+
+The output is the minimal skeletons found by search operations, while the output format is as follows:
+: [(vertex1, vertex2), (vertex2, vertex3), ..., (vertex_X, last_vertex)]
+Edges are sorted In addition, the above-mentioned error messages are also output in case of operation failure, together with the edge/vertex above which/the given operation failed.
